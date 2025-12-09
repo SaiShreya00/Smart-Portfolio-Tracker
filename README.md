@@ -1,12 +1,8 @@
 # Smart Portfolio Tracker
 
-## Overview
-A finance analytics project that forecasts stock trends, evaluates portfolio risk, and computes financial indicators.
+Finance + Machine Learning project with stock forecasting, financial indicators,
+and automated Python pipelines.
 
-## Features
-- ML models for stock forecasting
-- Volatility, Sharpe ratio, ROI calculations
-- Automated Python data pipeline
-
-## Tech Stack
-Python, Pandas, NumPy, Scikit-learn
+Run:
+pip install -r requirements.txt
+python main.py
